@@ -1,0 +1,4 @@
+executable("open_gl_demo") {
+  sources = [ "open_gl_demo.cc" ]
+}
+

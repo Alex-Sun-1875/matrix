@@ -1,0 +1,5 @@
+group("all") {
+  deps = [
+    "//open_gl:open_gl_demo",
+  ]
+}
